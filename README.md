@@ -127,10 +127,9 @@ public VictoryScreen(String texto) {
         TEXT.setText("WINNER:horse " + texto);
     }
 ```
-![Descripción de la imagen](https://raw.githubusercontent.com/GabrielChaconA/imagenes/main/Captura%20de%20pantalla%202024-08-06%20200555.png?token=GHSAT0AAAAAACUUA6KJDLGJYE6USKAEHPTEZVS23TQ)
+![Descripción de la imagen](https://raw.githubusercontent.com/GabrielChaconA/imagenes/main/Captura%20de%20pantalla%202024-08-06%20200555.png?token=GHSAT0AAAAAACUUA6KJVSVU6WNFRMJTKWB2ZVS3JWA)
 ## 5. Result:
 
 
 
-
-![Descripción del GIF](https://raw.githubusercontent.com/GabrielChaconA/imagenes/main/2024-08-06%2019-47-25.gif?token=GHSAT0AAAAAACUUA6KJTY5ZSJ3QMKV7PFBEZVS3AIQ)
+![Descripción del GIF](https://raw.githubusercontent.com/GabrielChaconA/imagenes/main/2024-08-06%2019-47-25.gif?token=GHSAT0AAAAAACUUA6KJVP5RRHSXP3L47TQSZVS3IMQ)
