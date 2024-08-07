@@ -1,6 +1,6 @@
 ﻿# Horse race | Gabriel Chacon Arellano | 
 ## PREVIEW
-![Descripción del GIF](https://raw.githubusercontent.com/GabrielChaconA/imagenes/main/2024-08-06%2019-47-25.gif?token=GHSAT0AAAAAACUUA6KJTY5ZSJ3QMKV7PFBEZVS3AIQ)
+![Descripción del GIF](https://raw.githubusercontent.com/GabrielChaconA/imagenes/main/2024-08-06%2019-47-25.gif?token=GHSAT0AAAAAACUUA6KJVP5RRHSXP3L47TQSZVS3IMQ)
 
 
 
