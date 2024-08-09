@@ -4,7 +4,7 @@
 
 
 
-## Introduccion 
+## Introduction 
 I developed a random game about a horse race, using the NetBeans graphical interface. I completed the project by adding two JFrame classes to create the visual aspect of the code, one for the horse race and the mechanical and visual aspect of it. To achieve this, I implemented the Runnable class and the run() method:
 
 ## 1. First, I initialized the variables
